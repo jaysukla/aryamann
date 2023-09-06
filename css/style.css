@@ -17,7 +17,7 @@ body {
   font-size: 14px;
   line-height: 1.6;
   color:rgb(239, 231, 231);
-  background: rgb(147, 144, 144);
+  background: #656262;
 }
 @media screen and (max-width: 992px) {
   body {
@@ -1170,4 +1170,16 @@ p {
 color: #000;
 
 
+}
+
+#st{
+  color: rgb(220, 211, 211);
+}
+
+
+#hli{
+  background-color: #0e0d0d;
+}
+#hmp{
+  color:rgb(207, 199, 199);
 }
